@@ -67,7 +67,7 @@ const GUNS = [
     type: 'Rifle',
     caliber: '.30-06',
     price: 1299,
-    image: '/guns/rifle.svg',
+    image: '/guns/m1g.jpeg',
     description:
       'A historic semi-automatic rifle with a distinctive en-bloc clip, full-size walnut stock, and a place in the history books.',
   },
