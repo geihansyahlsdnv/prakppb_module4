@@ -53,6 +53,33 @@ const GUNS = [
     description:
       'The other pump gun. Twin action bars, a simple safety on the tang, and a price that leaves money for ammunition.',
   },
+  {
+    name: 'Beretta 92FS',
+    type: 'Pistol',
+    caliber: '9mm',
+    price: 649,
+    image: '/guns/pistol.svg',
+    description:
+      'A proven service pistol with an alloy frame, open-slide design, and a smooth double-action trigger for dependable range work.',
+  },
+  {
+    name: 'M1 Garand',
+    type: 'Rifle',
+    caliber: '.30-06',
+    price: 1299,
+    image: '/guns/rifle.svg',
+    description:
+      'A historic semi-automatic rifle with a distinctive en-bloc clip, full-size walnut stock, and a place in the history books.',
+  },
+  {
+    name: 'Benelli M4',
+    type: 'Shotgun',
+    caliber: '12 Gauge',
+    price: 1799,
+    image: '/guns/shotgun.svg',
+    description:
+      'A gas-operated semi-automatic shotgun built for reliable cycling, with a durable finish and a comfortable field-ready layout.',
+  },
 ]
 
 export default GUNS
